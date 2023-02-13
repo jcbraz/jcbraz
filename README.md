@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer Student from Portugal</h3>
 
 
-*This README.md is just an "formal" introduction. My work displayed will speak for myself.*
+*This README.md is just an "formal" introduction.*
 
 
 <h3 align="left">Connect with me:</h3>
